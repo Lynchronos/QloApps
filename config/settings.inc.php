@@ -8,6 +8,7 @@ define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheFS');
 define('_PS_CACHE_ENABLED_', '0');
 define('_COOKIE_KEY_', 'c3a7154d8b671a938c5f0b8d234a9b1c');
+define('_NEW_COOKIE_KEY_', 'def00000a7e2a55c8e643120ee9a12d980f75d72d084dc3efd25f9951c1163f241f0c0bfe526beda3a305b3062e09b5652aa4b6b8b04942c7193219974cbcd45da475935');
 define('_COOKIE_IV_', '9876543210fedcba');
 define('_PS_CREATION_DATE_', '2026-08-22');
 define('_PS_VERSION_', '1.6.0.0');
