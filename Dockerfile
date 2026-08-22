@@ -18,7 +18,7 @@ RUN a2enmod rewrite
 COPY . /var/www/html/
 
 # Adjust file permissions for web installer write access
-RUN chown -R www-data:www-data /var/www/html/ \
-    && chmod -R 755 /var/www/html/
+RUN chown -R www-data:www-data /var/www/html \
+    && chmod -R 755 /var/www/html
 
 EXPOSE 80
