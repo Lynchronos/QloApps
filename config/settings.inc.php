@@ -8,7 +8,6 @@ define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheFS');
 define('_PS_CACHE_ENABLED_', '0');
 define('_COOKIE_KEY_', 'c3a7154d8b671a938c5f0b8d234a9b1c');
-define('_NEW_COOKIE_KEY_', 'def502003c2004051a892b1a030495f2');
 define('_COOKIE_IV_', '9876543210fedcba');
 define('_PS_CREATION_DATE_', '2026-08-22');
 define('_PS_VERSION_', '1.6.0.0');
