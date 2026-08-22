@@ -1,4 +1,10 @@
 <?php
+if (!defined('_QLOAPPS_VERSION_')) {
+    define('_QLOAPPS_VERSION_', '1.6.0');
+}
+if (!defined('_NEW_COOKIE_KEY_')) {
+    define('_NEW_COOKIE_KEY_', 'def50200a402377319c5c991ab810d8695d67e51086609b555e08b3e8ad6b7d15993b333a94fb233158c9bfaea4121516086259eef831fa2e0d37e19335f608bfdf887e4');
+}
 define('_DB_SERVER_', 'altaria.proxy.rlwy.net:40352');
 define('_DB_NAME_', 'railway');
 define('_DB_USER_', 'root');
