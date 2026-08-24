@@ -2,10 +2,10 @@
 if (!defined('_QLOAPPS_VERSION_')) {
     define('_QLOAPPS_VERSION_', '1.6.0');
 }
-define('_DB_SERVER_', 'altaria.proxy.rlwy.net:40352');
-define('_DB_NAME_', 'railway');
-define('_DB_USER_', 'root');
-define('_DB_PASSWD_', 'GLChEWVQZVtCLInAKlgIKYDcgnThuMDE');
+define('_DB_SERVER_', '127.0.0.1');
+define('_DB_NAME_', 'qloapps');
+define('_DB_USER_', 'pma_admin');
+define('_DB_PASSWD_', '14658128');
 define('_DB_PREFIX_', 'qlo_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheFS');
